@@ -1,3 +1,3 @@
 # learning-git
-For beginners training 
+For beginners training. 
 This repo was use teach git.
